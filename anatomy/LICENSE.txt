@@ -1,0 +1,5 @@
+The 3D models in this folder are adapted from BodyParts3D,
+(c) The Database Center for Life Science, licensed under CC Attribution-Share Alike 2.1 Japan
+(https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en).
+Changes: simplified meshes, grouped parts with Kazakh names and colours, converted to glTF (.glb).
+These adapted files are distributed under the same license.
