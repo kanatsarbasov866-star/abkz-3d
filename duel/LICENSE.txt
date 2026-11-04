@@ -1,0 +1,6 @@
+3D characters and animations in this folder come from Quaternius:
+- Universal Base Characters (Standard, free) — Superhero_Male / Superhero_Female
+- Universal Animation Library (Standard, free) — mannequin and animation clips
+License: CC0 1.0 Universal (public domain) — https://creativecommons.org/publicdomain/zero/1.0/
+https://quaternius.com
+Files were trimmed (selected clips only) and compressed with EXT_meshopt_compression.
